@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\vs c\u002B\u002B\\P1271\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7F197D-A9C9-42A3-ACC6-CFFEA4F81CD4}|P1271\\P1271.vcxproj|E:\\vs c\u002B\u002B\\P1271\\P1271\\P1271.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E7F197D-A9C9-42A3-ACC6-CFFEA4F81CD4}|P1271\\P1271.vcxproj|solutionrelative:P1271\\P1271.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P1271.cpp",
+              "DocumentMoniker": "E:\\vs c\u002B\u002B\\P1271\\P1271\\P1271.cpp",
+              "RelativeDocumentMoniker": "P1271\\P1271.cpp",
+              "ToolTip": "E:\\vs c\u002B\u002B\\P1271\\P1271\\P1271.cpp",
+              "RelativeToolTip": "P1271\\P1271.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-23T11:16:49.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

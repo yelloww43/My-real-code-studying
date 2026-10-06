@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\vs c\u002B\u002B\\\u591A\u7EF4\u6570\u7EC4\u7684\u904D\u5386\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B1F0FCC-8DC9-432B-9759-72DC825431F8}|\u591A\u7EF4\u6570\u7EC4\u7684\u904D\u5386\\\u591A\u7EF4\u6570\u7EC4\u7684\u904D\u5386.vcxproj|E:\\vs c\u002B\u002B\\\u591A\u7EF4\u6570\u7EC4\u7684\u904D\u5386\\\u591A\u7EF4\u6570\u7EC4\u7684\u904D\u5386\\\u591A\u7EF4\u6570\u7EC4\u7684\u904D\u5386.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B1F0FCC-8DC9-432B-9759-72DC825431F8}|\u591A\u7EF4\u6570\u7EC4\u7684\u904D\u5386\\\u591A\u7EF4\u6570\u7EC4\u7684\u904D\u5386.vcxproj|solutionrelative:\u591A\u7EF4\u6570\u7EC4\u7684\u904D\u5386\\\u591A\u7EF4\u6570\u7EC4\u7684\u904D\u5386.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u591A\u7EF4\u6570\u7EC4\u7684\u904D\u5386.cpp",
+              "DocumentMoniker": "E:\\vs c\u002B\u002B\\\u591A\u7EF4\u6570\u7EC4\u7684\u904D\u5386\\\u591A\u7EF4\u6570\u7EC4\u7684\u904D\u5386\\\u591A\u7EF4\u6570\u7EC4\u7684\u904D\u5386.cpp",
+              "RelativeDocumentMoniker": "\u591A\u7EF4\u6570\u7EC4\u7684\u904D\u5386\\\u591A\u7EF4\u6570\u7EC4\u7684\u904D\u5386.cpp",
+              "ToolTip": "E:\\vs c\u002B\u002B\\\u591A\u7EF4\u6570\u7EC4\u7684\u904D\u5386\\\u591A\u7EF4\u6570\u7EC4\u7684\u904D\u5386\\\u591A\u7EF4\u6570\u7EC4\u7684\u904D\u5386.cpp",
+              "RelativeToolTip": "\u591A\u7EF4\u6570\u7EC4\u7684\u904D\u5386\\\u591A\u7EF4\u6570\u7EC4\u7684\u904D\u5386.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-15T05:10:29.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

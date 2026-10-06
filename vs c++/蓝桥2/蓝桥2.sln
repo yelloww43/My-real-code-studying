@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37710.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "蓝桥2", "蓝桥2\蓝桥2.vcxproj", "{5B3538EB-3483-40FF-AF0A-5D08C7E7439C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B3538EB-3483-40FF-AF0A-5D08C7E7439C}.Debug|x64.ActiveCfg = Debug|x64
+		{5B3538EB-3483-40FF-AF0A-5D08C7E7439C}.Debug|x64.Build.0 = Debug|x64
+		{5B3538EB-3483-40FF-AF0A-5D08C7E7439C}.Debug|x86.ActiveCfg = Debug|Win32
+		{5B3538EB-3483-40FF-AF0A-5D08C7E7439C}.Debug|x86.Build.0 = Debug|Win32
+		{5B3538EB-3483-40FF-AF0A-5D08C7E7439C}.Release|x64.ActiveCfg = Release|x64
+		{5B3538EB-3483-40FF-AF0A-5D08C7E7439C}.Release|x64.Build.0 = Release|x64
+		{5B3538EB-3483-40FF-AF0A-5D08C7E7439C}.Release|x86.ActiveCfg = Release|Win32
+		{5B3538EB-3483-40FF-AF0A-5D08C7E7439C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C87FB741-A427-4146-A82C-A54637F54C79}
+	EndGlobalSection
+EndGlobal

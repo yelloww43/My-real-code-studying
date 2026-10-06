@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\vs c\u002B\u002B\\ETOJ P1014\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3F83-E9A1-486E-A684-02173F6F854F}|ETOJ P1014\\ETOJ P1014.vcxproj|E:\\vs c\u002B\u002B\\ETOJ P1014\\ETOJ P1014\\ETOJ P1014.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{556E3F83-E9A1-486E-A684-02173F6F854F}|ETOJ P1014\\ETOJ P1014.vcxproj|solutionrelative:ETOJ P1014\\ETOJ P1014.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ETOJ P1014.cpp",
+              "DocumentMoniker": "E:\\vs c\u002B\u002B\\ETOJ P1014\\ETOJ P1014\\ETOJ P1014.cpp",
+              "RelativeDocumentMoniker": "ETOJ P1014\\ETOJ P1014.cpp",
+              "ToolTip": "E:\\vs c\u002B\u002B\\ETOJ P1014\\ETOJ P1014\\ETOJ P1014.cpp*",
+              "RelativeToolTip": "ETOJ P1014\\ETOJ P1014.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-23T11:41:58.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
