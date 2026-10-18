@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\code study\\vs c\u002B\u002B\\\u94FE\u8868\u5B58\u50A8\u53CA\u67E5\u627E\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C74AE18-C5D8-4C33-AB2A-168620CE8300}|\u94FE\u8868\u5B58\u50A8\u53CA\u67E5\u627E\\\u94FE\u8868\u5B58\u50A8\u53CA\u67E5\u627E.vcxproj|E:\\code study\\vs c\u002B\u002B\\\u94FE\u8868\u5B58\u50A8\u53CA\u67E5\u627E\\\u94FE\u8868\u5B58\u50A8\u53CA\u67E5\u627E\\\u94FE\u8868\u5B58\u50A8\u53CA\u67E5\u627E.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0C74AE18-C5D8-4C33-AB2A-168620CE8300}|\u94FE\u8868\u5B58\u50A8\u53CA\u67E5\u627E\\\u94FE\u8868\u5B58\u50A8\u53CA\u67E5\u627E.vcxproj|solutionrelative:\u94FE\u8868\u5B58\u50A8\u53CA\u67E5\u627E\\\u94FE\u8868\u5B58\u50A8\u53CA\u67E5\u627E.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u94FE\u8868\u5B58\u50A8\u53CA\u67E5\u627E.cpp",
+              "DocumentMoniker": "E:\\code study\\vs c\u002B\u002B\\\u94FE\u8868\u5B58\u50A8\u53CA\u67E5\u627E\\\u94FE\u8868\u5B58\u50A8\u53CA\u67E5\u627E\\\u94FE\u8868\u5B58\u50A8\u53CA\u67E5\u627E.cpp",
+              "RelativeDocumentMoniker": "\u94FE\u8868\u5B58\u50A8\u53CA\u67E5\u627E\\\u94FE\u8868\u5B58\u50A8\u53CA\u67E5\u627E.cpp",
+              "ToolTip": "E:\\code study\\vs c\u002B\u002B\\\u94FE\u8868\u5B58\u50A8\u53CA\u67E5\u627E\\\u94FE\u8868\u5B58\u50A8\u53CA\u67E5\u627E\\\u94FE\u8868\u5B58\u50A8\u53CA\u67E5\u627E.cpp",
+              "RelativeToolTip": "\u94FE\u8868\u5B58\u50A8\u53CA\u67E5\u627E\\\u94FE\u8868\u5B58\u50A8\u53CA\u67E5\u627E.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-07T10:18:05.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

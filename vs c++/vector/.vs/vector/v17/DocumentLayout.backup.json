@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\vs c\u002B\u002B\\vector\\",
+  "WorkspaceRootPath": "E:\\code study\\vs c\u002B\u002B\\vector\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB6663DE-0CEF-4636-BB6C-3FBA445D946A}|vector\\vector.vcxproj|E:\\vs c\u002B\u002B\\vector\\vector\\vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{EB6663DE-0CEF-4636-BB6C-3FBA445D946A}|vector\\vector.vcxproj|E:\\code study\\vs c\u002B\u002B\\vector\\vector\\vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EB6663DE-0CEF-4636-BB6C-3FBA445D946A}|vector\\vector.vcxproj|solutionrelative:vector\\vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "vector.cpp",
-              "DocumentMoniker": "E:\\vs c\u002B\u002B\\vector\\vector\\vector.cpp",
+              "DocumentMoniker": "E:\\code study\\vs c\u002B\u002B\\vector\\vector\\vector.cpp",
               "RelativeDocumentMoniker": "vector\\vector.cpp",
-              "ToolTip": "E:\\vs c\u002B\u002B\\vector\\vector\\vector.cpp",
+              "ToolTip": "E:\\code study\\vs c\u002B\u002B\\vector\\vector\\vector.cpp",
               "RelativeToolTip": "vector\\vector.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADMAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-09-24T03:34:26.99Z",
               "EditorCaption": ""
